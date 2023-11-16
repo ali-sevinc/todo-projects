@@ -6,5 +6,3 @@ built with
 
 - tailwindcss
 - typescript
-
-Project idea from Maximilian Schwarzmüller's "React The Complete Guide" course.
